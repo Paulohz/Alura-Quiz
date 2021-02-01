@@ -1,39 +1,60 @@
 {
-  "bg": "https://i2.wp.com/css-tricks.com/wp-content/uploads/2017/06/css-is-awesome-scaled.jpg?resize=1536%2C1208&ssl=1",
-  "title": "Quiz CSS da Alura",
-  "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+  "bg": "https://img.theculturetrip.com/1440x807/smart/wp-content/uploads/2017/02/eugne-delacroix-la-libert-guidant-le-people-1830--eugne-delacroix-wikicommons-e1486731769693.jpg",
+  "title": "Quiz Revolução Francesa #AluraQuiz",
+  "description": "Um quiz rápido sobre a revolução francesa",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-      "title": "Como fazer um seletor por id via CSS?",
-      "description": "Essa é pra aquecer",
+      "image": "https://media.giphy.com/media/oSIZ0tXDVoLW8/giphy.gif",
+      "title": "Qual foi o principal motivo da Revolução Francesa?",
+      "description": "Pergunta fácil em!",
       "answer": 2,
       "alternatives": [
-        ".elemento",
-        "*elemento",
-        "#elemento",
-        "%elemento"
+        "O casamento do rei",
+        "A morte do rei Luiz XV",
+        "Insatifação do povo com o reinado absolutista"
       ]
     },
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-      "title": "Como fazer um background gradiente com css?",
-      "description": "Faz tempo em haha",
+      "image": "https://media.giphy.com/media/13AC5VLyldLAUE/giphy.gif",
+      "title": "Durante o período Napoleônico, entre as medidas adotadas por Bonaparte, o que teve repercussões importantes nas relações comerciais do Brasil com a Inglaterra?",
+      "description": "E agora? Você sabe?",
       "answer": 0,
       "alternatives": [
-         "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
+        "Decretação do Bloqueio Continental, em 1806.",
+        "Criação do franco como novo padrão monetário.",
+        "A expansão territorial da frança, graças as consquistas do napoleão."
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/2shA0rHIvrB2aNk7jg/giphy.gif",
+      "title": "Robespierre foi assassinado de que forma?",
+      "answer": 1,
+      "alternatives": [
+        "Forca",
+        "Guilhotina",
+        "Fogueira"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/jBDkwmIgmihgc/giphy.gif",
+      "title": "Como era chamada a prisão símbolo do absolutismo na França?",
+      "answer": 2,
+      "alternatives": [
+        "Prisão dos marginalizados",
+        "Palais-Royal",
+        "Bastilha"
       ]
     }
   ],
   "external": [
-    ""
+    "https://aluraquiz-css.omariosouto.vercel.app/",
+    "https://aluraquiz-devsoutinho.omariosouto.vercel.app/"
   ],
   "theme": {
     "colors": {
-      "primary": "#0d47a1",
-      "secondary": "#29b6f6",
-      "mainBg": "#171B35",
+      "primary": "#ef4135",
+      "secondary": "#ef4135",
+      "mainBg": "#0050a4",
       "contrastText": "#FFFFFF",
       "wrong": "#FF5722",
       "success": "#4CAF50"
